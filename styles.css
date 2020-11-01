@@ -141,7 +141,7 @@ article {
 .newsletter {
     background-color: #48bb78;
     color: white;
-    padding: 1% 25% 5% 25%;
+    padding: 1% 25% 0% 25%;
 }
 .newsletter h3 {
     text-align: center;
@@ -178,6 +178,13 @@ footer {
     background-color: #4a5568;
     color: white;
     padding: 0.25%;
+}
+
+.message {
+    text-align: center;
+    height: 100px;
+    max-height: 100px;
+    min-height: 100px;
 }
 
 .container {
